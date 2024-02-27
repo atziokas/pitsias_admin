@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "153252829241",
+    "project_id": "pitsias-35679",
+    "storage_bucket": "pitsias-35679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153252829241:android:a84da1d6efd67dc59895e8",
+        "android_client_info": {
+          "package_name": "cz.rtsolutions.pitsias_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zw7q5ow6DgWGpBEyuU1heZWEvZLC4Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153252829241:android:fa1cc1fdbd48bcc29895e8",
+        "android_client_info": {
+          "package_name": "cz.rtsolutions.pitsias_create_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zw7q5ow6DgWGpBEyuU1heZWEvZLC4Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153252829241:android:827d893990c7d8979895e8",
+        "android_client_info": {
+          "package_name": "cz.rtsolutions.pitsias_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zw7q5ow6DgWGpBEyuU1heZWEvZLC4Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
